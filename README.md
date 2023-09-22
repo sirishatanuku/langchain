@@ -1,2 +1,2 @@
 # langchain
-langchain and lamini
+langchain and lamini flan
